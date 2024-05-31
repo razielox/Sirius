@@ -1723,6 +1723,22 @@ query-string@^7.1.1:
     split-on-first "^1.0.0"
     strict-uri-encode "^2.0.0"
 
+ra-core@^4.16.17:
+  version "4.16.17"
+  resolved "https://registry.yarnpkg.com/ra-core/-/ra-core-4.16.17.tgz#35a5fe689e42ade1bf430bbe96f0100175ae03cf"
+  integrity sha512-85dpwo6D5nv/UTJJxBqYFWP8H4O4bc+prL8ar8Trb4om2X75zK6FsW/4ZXKlhrRPM+fP+s/v3xYrFjTo/zT4hQ==
+  dependencies:
+    clsx "^1.1.1"
+    date-fns "^2.19.0"
+    eventemitter3 "^4.0.7"
+    inflection "~1.12.0"
+    jsonexport "^3.2.0"
+    lodash "~4.17.5"
+    prop-types "^15.6.1"
+    query-string "^7.1.1"
+    react-is "^17.0.2"
+    react-query "^3.32.1"
+
 ra-core@^4.6.2:
   version "4.6.2"
   resolved "https://registry.npmjs.org/ra-core/-/ra-core-4.6.2.tgz"
@@ -1739,13 +1755,13 @@ ra-core@^4.6.2:
     react-is "^17.0.2"
     react-query "^3.32.1"
 
-ra-data-json-server@^4.6.2:
-  version "4.6.2"
-  resolved "https://registry.npmjs.org/ra-data-json-server/-/ra-data-json-server-4.6.2.tgz"
-  integrity sha512-ySKi7KLrn5bLyc6cdEgnxNHHeRtTqccmJ+r4dTZinTYlZ+S61UipEbcMwpN+h6qBT6579U9RRnz2O/QwFClYLQ==
+ra-data-json-server@^4.16.17:
+  version "4.16.17"
+  resolved "https://registry.yarnpkg.com/ra-data-json-server/-/ra-data-json-server-4.16.17.tgz#d33097ecd3bab963da116ab56582c193263e7ad1"
+  integrity sha512-VkTvlBhSXWmkN66Zc54Q1e+zgRK7nubAbtbGywXdDhUmcv9hEgfYy4WdE0evtqFa64NUN+8WxKKOlSwTAa9rGQ==
   dependencies:
     query-string "^7.1.1"
-    ra-core "^4.6.2"
+    ra-core "^4.16.17"
 
 ra-i18n-polyglot@^4.6.2:
   version "4.6.2"
