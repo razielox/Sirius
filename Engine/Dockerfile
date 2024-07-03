@@ -1,6 +1,6 @@
 # Go API Dockerfile
 
-FROM golang:1.20-bullseye
+FROM golang:1.23rc1-bullseye
 WORKDIR /engine
 
 COPY .air.toml .air.toml
@@ -8,7 +8,7 @@ COPY .air.toml .air.toml
 # Dependencies
 # Go API Dockerfile
 
-FROM golang:1.20-bullseye
+FROM golang:1.23rc1-bullseye
 WORKDIR /engine
 
 COPY .air.toml .air.toml
