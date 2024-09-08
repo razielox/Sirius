@@ -1,6 +1,6 @@
 # Go API Dockerfile
 
-FROM golang:1.20-bullseye
+FROM golang:1.23.0-bullseye
 WORKDIR /api
 #COPY . .
 
