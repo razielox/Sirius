@@ -9,22 +9,22 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@emotion/react": "^11.10.6",
-    "@emotion/styled": "^11.10.6",
-    "@fortawesome/fontawesome-svg-core": "^6.2.1",
-    "@fortawesome/free-brands-svg-icons": "^6.2.1",
-    "@fortawesome/free-solid-svg-icons": "^6.2.1",
-    "@fortawesome/react-fontawesome": "^0.2.0",
-    "@mui/icons-material": "^5.11.11",
-    "@mui/material": "^5.11.12",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-brands-svg-icons": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@mui/icons-material": "^5.16.7",
+    "@mui/material": "^5.16.7",
     "json-loader": "^0.5.7",
-    "material-react-table": "^1.8.5",
+    "material-react-table": "^1.15.1",
     "ra-data-json-server": "^5.0.0",
     "react": "^18.2.0",
     "react-admin": "^5.0.0",
     "react-dom": "^18.2.0",
     "react-swipeable-views": "^0.14.0",
-    "rsuite": "^5.28.0"
+    "rsuite": "^5.70.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
